@@ -374,15 +374,15 @@ h2 {
 
 
   .portfolio {
-    padding: 20px;
-    max-width: 1200px;
+    padding: 60px;
     margin: 0 auto;
+    background: white;
   }
 
   .portfolio h2{
-    margin: 60px 0px 40px 0px !important;
+    margin: 40px 0px 40px 0px !important;
     font-size: 3rem;
-    color: aliceblue
+    color: black;
   }
   
   .portfolio-container {
@@ -463,10 +463,11 @@ h2 {
   
   .contact-image img {
     max-width: 100%;
-    height: auto;
+    height: 420px;
+    width: 620px;
     border-radius: 8px;
     object-fit: cover;
-  }
+}
   
   .contact-form-container {
     width: 100%;
